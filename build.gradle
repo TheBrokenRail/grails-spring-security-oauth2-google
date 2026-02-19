@@ -59,7 +59,7 @@ dependencies {
 
     implementation 'org.apache.grails:grails-spring-security:7.0.1'
     implementation 'org.apache.grails:grails-spring-security-oauth2:7.0.1'
-    implementation 'com.github.scribejava:scribejava-core:8.3.3'
+    implementation 'com.github.scribejava:scribejava-apis:8.3.3'
 }
 
 grailsPublish {
